@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/edittext_shape"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:textSize="22sp"
+        android:gravity="start"
+        android:text="@string/reservation_txt"
+        android:id="@+id/input"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.Material3.TextInputLayout.OutlinedBox.Dense">
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="21sp"
+            android:textColorHint="@color/white"
+            android:hint="@string/number_of_tickets_txt"
+            android:inputType="number"
+            android:id="@+id/ticket_amount"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:id="@+id/location_txt"
+            android:textSize="18sp"
+            android:layout_margin="10dp"
+            android:padding="8dp"
+            android:textStyle="bold"
+            android:text="@string/locations_enter_txt"/>
+
+        <Spinner
+            android:id="@+id/mySpinner"
+            android:layout_width="50dp"
+            android:layout_height="60dp"
+            android:layout_gravity="start"
+            android:gravity="bottom"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/btn_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="17sp"
+        android:backgroundTint="@color/blue_tan"
+        android:text="@string/date_select_txt" />
+
+    <Button
+        android:id="@+id/summary_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="140dp"
+        android:backgroundTint="@android:color/holo_green_dark"
+        android:text="@string/final_summary_btn"
+        android:textSize="17sp"
+        android:textColor="@color/white"
+        app:icon="@drawable/baseline_gpp_good_24"
+        android:layoutDirection="rtl"/>
+
+</LinearLayout>

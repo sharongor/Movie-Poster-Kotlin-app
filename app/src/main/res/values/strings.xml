@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">my_Movie_Poster</string>
+    <string name="interstellar_txt">INTERSTELLAR</string>
+    <string name="movie_summary_txt">When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet and save mankind</string>
+    <string name="get_tickets_txt">Tickets</string>
+    <string name="trailer_txt">Trailer</string>
+    <string name="reservation_txt">Here you can select the number of tickets , location of theater and date , please fill all of the blanks. Please note that the fare is 40 shekels per ticket</string>
+    <string name="number_of_tickets_txt">Enter number of Tickets:</string>
+    <string name="locations_enter_txt">Click for available locations :</string>
+    <string name="date_select_txt">Click for available dates</string>
+    <string name="final_summary_btn">Show Reservation Details</string>
+    <string name="reservation_summary_txt_txt">This is your reservation summary:</string>
+    <string name="final_location_txt">The selected location is :</string>
+    <string name="final_ticket_number_txt">The number of selected tickets is :</string>
+    <string name="final_date_txt">The chosen date is :</string>
+    <string name="final_price_txt">The price is :</string>
+    <string name="exit_btn_txt">Home Page</string>
+    <string name="please_choose_a_date_toast">Please choose a date</string>
+    <string name="please_choose_a_location_toast">Please choose a location</string>
+    <string name="please_select_the_number_of_tickets_toast">Please select the number of tickets</string>
+    <string name="total_tickets_txt_txt">The number of tickets is : %1$s</string>
+    <string name="selected_date_txt_txt">The selected Date is :  %1$s</string>
+    <string name="selected_location_txt_txt">The selected location is : %1$s</string>
+    <string name="selected_price_txt_txt">The price is : %1$s</string>
+    <string name="tel_aviv_cinema_town_txt">Tel Aviv : Cinema Town</string>
+    <string name="haifa_yes_planet_txt">Haifa : Yes Planet</string>
+    <string name="jerusalem_cinema_city_txt">Jerusalem : Cinema City</string>
+    <string name="beer_sheva_planetx_txt">Beer Sheva : PlanetX</string>
+    <string name="rishon_letsyon_yes_planet_txt">Rishon Letsyon: Yes Planet</string>
+    <string name="did_you_know_btn_txt">Did you know</string>
+    <string name="extra_info_bottom_dialog_txt">Interstellar is a 2014 epic science fiction film co-written, directed, and produced by Christopher Nolan. It stars Matthew McConaughey, Anne Hathaway and more . It was premiered in Los Angeles on October 26, 2014. It won the Best Visual Effects award of the 87th Academy Awards.</string>
+    <string name="please_select_a_location_txt">----------</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">my_Movie_Poster</string>
+    <string name="interstellar_txt">אינטרסטלר</string>
+    <string name="movie_summary_txt">כאשר בעתיד הקרוב , המצב בכדור הארץ הופך קשה למחיה , ג\'וזף קופר , חוואי בהווה וטייס נאסא לשעבר , נקרא למשימת הטסת חללית , יחד עם קבוצת חוקרים , על מנת למצוא כוכב חדש ולהציל את האנושות..</string>
+    <string name="get_tickets_txt">כרטיסים</string>
+    <string name="trailer_txt">טריילר</string>
+    <string name="reservation_txt">במסך זה , תוכלו לבחור את מספר הכרטיסים , מיקום הקולנוע ותאריך הצפיה הרצוי . אנא מלאו את כל התיבות ושימו לב ,המחיר הינו 40 שקלים לכרטיס.</string>
+    <string name="number_of_tickets_txt">מספר הכרטיסים:</string>
+    <string name="locations_enter_txt">לחץ לבחירת קולנוע:</string>
+    <string name="date_select_txt">לחץ לבחירת תאריך</string>
+    <string name="final_summary_btn">הצג פרטי הזמנה</string>
+    <string name="reservation_summary_txt_txt">אלה הם פרטי הזמנתכם:</string>
+    <string name="final_location_txt">המיקום שנבחר הוא:</string>
+    <string name="final_ticket_number_txt">מספר הכרטיסים שנבחר הוא:</string>
+    <string name="final_date_txt">התאריך שנבחר הוא:</string>
+    <string name="final_price_txt">"המחיר הוא: "</string>
+    <string name="exit_btn_txt">" למסך הבית"</string>
+    <string name="please_choose_a_date_toast">אנא בחר תאריך</string>
+    <string name="please_choose_a_location_toast">אנא בחר מיקום</string>
+    <string name="please_select_the_number_of_tickets_toast">אנא הכנס את מספר הכרטיסים הרצוי</string>
+    <string name="total_tickets_txt_txt">מספר הכרטיסים הוא: %1$s</string>
+    <string name="selected_date_txt_txt">התאריך שנבחר הוא:  %1$s</string>
+    <string name="selected_location_txt_txt">המיקום שנבחר הוא: %1$s</string>
+    <string name="selected_price_txt_txt">המחיר הוא: %1$s</string>
+    <string name="tel_aviv_cinema_town_txt">תל אביב : סינמה טאון</string>
+    <string name="haifa_yes_planet_txt">חיפה : יס פלאנט</string>
+    <string name="jerusalem_cinema_city_txt">ירושלים : סינמה סיטי</string>
+    <string name="beer_sheva_planetx_txt">באר שבע : פלאנט אקס</string>
+    <string name="rishon_letsyon_yes_planet_txt">ראשון לציון : יס פלאנט</string>
+    <string name="did_you_know_btn_txt">הידעת</string>
+    <string name="extra_info_bottom_dialog_txt">אינטרסטלר הוא סרט מד\"ב אפי משנת 2014, אשר בויים ונכתב על ידי כריסטופר נולן . בסרט משתתפים השחקנים מתיו מקונהוי , אן הת\'וואי ועוד. הסרט נראה לראשונה ב 26 באוקטובר 2014 , וזכה בפרס האפקטים הויזואליים בטקס ה87 של פרסי האוסקר.</string>
+    <string name="please_select_a_location_txt">----------</string>
+</resources>
